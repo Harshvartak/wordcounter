@@ -1,1 +1,1 @@
-# wordcount
+wordcount
